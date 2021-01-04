@@ -3,6 +3,7 @@ package com.example.git_test;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
+
 @SpringBootApplication
 public class GitTestApplication {
 
@@ -12,6 +13,13 @@ public class GitTestApplication {
         //---------------------------------------------------------
 
         System.out.println("Hello 1 !");
+
+        Example ext=new  Example();
+        ext.setName("exTest");
+        System.out.println("Hello 1 !"+ "ext.name="+ext.getName());
+
+
+
 
 
 
