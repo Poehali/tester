@@ -14,6 +14,7 @@ public class GitTestApplication {
 
         System.out.println("Hello 1 !");
         System.out.println("Hello 1 DEV !");
+        System.out.println("Hello 2 DEV !");
 
         Example ext=new  Example();
         ext.setName("exTest");
