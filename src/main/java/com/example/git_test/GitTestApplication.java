@@ -13,7 +13,7 @@ public class GitTestApplication {
         //---------------------------------------------------------
 
         System.out.println("Hello 1 !");
-        System.out.println("Hello 777 DEV !");
+        System.out.println("Hello 77777 DEV !");
         System.out.println("Hello 5555 DEV !");
         System.out.println("Hello 3 DEV !");
 
